@@ -18,7 +18,7 @@ const Footer = () => {
             </p>
             <div className="flex items-center space-x-2 text-green-400">
               <Icon name="Server" size={20} />
-              <span className="font-mono">svinocraft.ru</span>
+              <span className="font-mono">svinocraft.sosal.today</span>
             </div>
           </div>
 
