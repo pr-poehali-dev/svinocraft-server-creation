@@ -26,14 +26,9 @@ const Hero = () => {
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-          <button className="bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-colors duration-200 flex items-center space-x-2">
-            <Icon name="Play" size={20} />
-            <span>Начать играть</span>
-          </button>
-
           <div className="flex items-center space-x-2 text-gray-300">
             <Icon name="Users" size={20} />
-            <span>IP: svinocraft.ru</span>
+            <span>IP: svinocraft.sosal.today</span>
           </div>
         </div>
       </div>

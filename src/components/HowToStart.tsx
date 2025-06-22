@@ -12,7 +12,8 @@ const HowToStart = () => {
     {
       number: "2",
       title: "Подключись к серверу",
-      description: "Добавь сервер с IP: svinocraft.ru в список серверов",
+      description:
+        "Добавь сервер с IP: svinocraft.sosal.today в список серверов",
       icon: "Server",
     },
     {
@@ -82,7 +83,7 @@ const HowToStart = () => {
               IP сервера
             </h3>
             <p className="text-3xl font-mono font-bold text-green-600">
-              svinocraft.ru
+              svinocraft.sosal.today
             </p>
           </div>
         </div>
